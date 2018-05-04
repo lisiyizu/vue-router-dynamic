@@ -1,6 +1,8 @@
-# vue-pwa
+### 代码如图
 
-> A Vue.js project
+![](1.png)
+
+![](2.png)
 
 ## Build Setup
 
